@@ -1,56 +1,125 @@
 <p align="center">
-  <img src="github_banner.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
+  <img src="github_banner_enhanced.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
 </p>
 
-# Hi there 👋, I'm Fenil Gajjar!
+<h1 align="center">Hi there 👋, I'm Fenil Gajjar!</h1>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Engineer;Final+Year+Computer+Engineering+Student;AWS+%26+Kubernetes+Enthusiast;CI%2FCD+Pipeline+Expert" alt="Typing SVG" />
+</p>
 
-I'm a final-year Computer Engineering student specializing in **computer systems, cloud computing, and DevOps practices**. I'm passionate about leveraging technology to drive efficiency and innovation.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fenil-Gajjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Fenil-Gajjar?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-## Skills
+---
 
-### Technologies & Tools
+## 🚀 About Me
 
-**Cloud:** AWS (EC2, EBS, EFS, VPC, Lambda, Route53, ALB, S3, ECS, ECR, IAM, RDS, SSM, Cloudwatch, Elastic Beanstalk)
+I'm a **final-year Computer Engineering student** specializing in **computer systems, cloud computing, and DevOps practices**. I'm passionate about leveraging technology to drive efficiency and innovation in dynamic team environments.
 
-**Container Orchestration:** Docker & Kubernetes (EKS, KOPS), Helm
+- 🔭 I'm currently working on **DevSecOps and Cloud-Native Projects**
+- 🌱 I'm currently learning **Advanced Kubernetes, MLOps, and AI-powered DevOps**
+- 👯 I'm looking to collaborate on **Open Source DevOps Projects**
+- 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD, and Infrastructure as Code**
+- 📫 How to reach me: **fenilgajjar.devops@gmail.com**
+- ⚡ Fun fact: **I love automating everything and making complex systems simple!**
 
-**Infrastructure as Code & Configuration Management:** Terraform, Ansible
+---
 
-**CI/CD:** Jenkins, GitHub Actions, ArgoCD
+## 🛠️ Technologies & Tools
 
-**Build & Artifact Management:** Maven, Nexus
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+</p>
 
-**Scripting & Programming:** Bash, Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
 
-**Security & Load Balancing:** SonarQube, Trivy, OWASP, Nginx
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+</p>
 
-**Observability:** Prometheus, Grafana, ELK stack
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BDB?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+</p>
 
-**Version Control:** Git & GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
-## Projects
+---
 
-### Featured Projects
+## 🏆 Featured Projects
 
-#### Migration and Re-architecture of Multi-Tier Java Application on AWS
+### 🔥 Migration and Re-architecture of Multi-Tier Java Application on AWS
+**Technologies:** AWS, Tomcat, MySQL, RabbitMQ, Memcache, ELB, Auto Scaling, Route 53
 
-Migrated a multi-tier Java application (Tomcat, MySQL, RabbitMQ, Memcache) to AWS using a two-phase approach. Phase 1 involved architecting a high-availability setup with ELB, Auto Scaling Groups, Route 53, security groups, S3-based CI/CD, and SSL termination, achieving 99.9% uptime. Phase 2 re-architected the application using managed cloud services (Elastic Beanstalk, RDS, ElastiCache, Amazon MQ), reducing operational overhead by 60%. Implemented CloudFront CDN, multi-AZ deployment, and an automated Maven pipeline.
+Migrated a multi-tier Java application to AWS using a two-phase approach:
+- **Phase 1:** Architected high-availability setup achieving **99.9% uptime**
+- **Phase 2:** Re-architected using managed services, reducing operational overhead by **60%**
+- Implemented CloudFront CDN, multi-AZ deployment, and automated Maven pipeline
 
-#### Capstone Automated DevSecOps Workflow for Cloud-Native Deployment
+### 🛡️ Capstone Automated DevSecOps Workflow for Cloud-Native Deployment
+**Technologies:** Jenkins, Spring Boot, Trivy, SonarQube, Nexus, Terraform, AWS EKS, Docker
 
-Orchestrated an automated DevSecOps pipeline for a Spring Boot application using Jenkins CI/CD, with integrated security scanning (Trivy), code quality analysis (SonarQube), and artifact management (Nexus). Provisioned AWS EKS infrastructure via Terraform, containerized with Docker, and implemented GitOps deployment with SSL/TLS and Prometheus/Grafana monitoring, achieving shift-left security practices across the entire SDLC.
+Orchestrated automated DevSecOps pipeline with:
+- Integrated security scanning and code quality analysis
+- AWS EKS infrastructure provisioned via Terraform
+- GitOps deployment with SSL/TLS and monitoring
+- Achieved **shift-left security practices** across entire SDLC
 
-#### GitOps-Based VProfile Cloud-Native Deployment
+### ⚡ GitOps-Based VProfile Cloud-Native Deployment
+**Technologies:** GitHub Actions, Terraform, AWS EKS, Docker, ECR, Helm, SonarCloud
 
-Engineered an automated GitOps pipeline using GitHub Actions, Terraform, and AWS EKS for end-to-end infrastructure provisioning and application deployment. Implemented CI/CD workflow with Docker/ECR containerization, Helm charts, SonarCloud quality gates, and automated testing, reducing deployment time and ensuring zero-downtime releases.
+Engineered automated GitOps pipeline featuring:
+- End-to-end infrastructure provisioning and application deployment
+- Docker/ECR containerization with Helm charts
+- SonarCloud quality gates and automated testing
+- **Zero-downtime releases** with reduced deployment time
 
-## Connect with me
-
-- **Email:** fenilgajjar.devops@gmail.com
-- **GitHub:** [Fenil-Gajjar](https://github.com/Fenil-Gajjar)
-- **Google Drive:** [Fenil Gajjar's Portfolio](https://drive.google.com/drive/folders/1Q3xFSLoeoiH38VCsGFYLD5Q3nYHXD0647usp=sharing)
+---
 
 
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:fenilgajjar.devops@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Fenil-Gajjar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1Q3xFSLoeoiH38VCsGFYLD5Q3nYHXD0647usp=sharing">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Fenil-Gajjar">Fenil Gajjar</a></i>
+</p>
 
