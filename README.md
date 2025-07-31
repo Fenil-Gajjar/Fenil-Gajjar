@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner_enhanced.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
+  <img src="github_banner.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fenil Gajjar!</h1>
@@ -71,28 +71,15 @@ I'm a **final-year Computer Engineering student** specializing in **computer sys
 Here are some of the key projects where I've applied my skills to showcase experience:
 
 ### 1. Migration and Re-architecture of Multi-Tier Java Application on AWS
-
-*   **Description:** Successfully migrated and re-architected a complex multi-tier Java application (Tomcat, MySQL, RabbitMQ, Memcache) to AWS. This involved a two-phase approach: initially establishing a highly available architecture, followed by a re-architecture leveraging managed cloud services to significantly reduce operational overhead.
-*   **Key Achievements:** Achieved 99.9% uptime with robust high-availability architecture (ELB, Auto Scaling Groups, Route 53, security groups, S3-based CI/CD, SSL termination). Reduced operational overhead by 60% through the adoption of managed services (Elastic Beanstalk, RDS, ElastiCache, Amazon MQ). Implemented CloudFront CDN for performance optimization and automated Maven pipeline for efficient builds.
 *   **Technologies:** AWS (ELB, Auto Scaling Groups, Route 53, S3, Elastic Beanstalk, RDS, ElastiCache, Amazon MQ, CloudFront), Java, Tomcat, MySQL, RabbitMQ, Memcache, Maven.
 
 ### 2. Capstone Automated DevSecOps Workflow for Cloud-Native Deployment
-
-*   **Description:** Orchestrated a comprehensive automated DevSecOps pipeline for a Spring Boot application, integrating security and quality checks throughout the software development lifecycle. This project emphasized 
-
-
-shift-left security practices.
-*   **Key Achievements:** Implemented a robust CI/CD pipeline using Jenkins, integrated security scanning with Trivy, and code quality analysis with SonarQube. Managed artifact storage with Nexus. Provisioned AWS EKS infrastructure using Terraform and containerized the application with Docker. Ensured continuous deployment with GitOps, SSL/TLS, and comprehensive monitoring using Prometheus and Grafana.
 *   **Technologies:** Jenkins, Trivy, SonarQube, Nexus, Terraform, Docker, AWS EKS, GitOps, Prometheus, Grafana, Spring Boot.
 
 ### 3. GitOps-Based VProfile Cloud-Native Deployment
-
-*   **Description:** Engineered an automated GitOps pipeline for end-to-end infrastructure provisioning and application deployment for a VProfile application. This project focused on streamlining the deployment process and ensuring zero-downtime releases.
-*   **Key Achievements:** Developed a CI/CD workflow using GitHub Actions, Terraform, and AWS EKS. Implemented Docker/ECR for containerization and Helm charts for application packaging. Integrated SonarCloud for quality gates and automated testing, significantly reducing deployment time and enabling seamless updates.
 *   **Technologies:** GitHub Actions, Terraform, AWS EKS, Docker, ECR, Helm, SonarCloud.
 
 ### 4. Additional Projects & Documentation
-
 Beyond these core projects, I have executed multiple end-to-end DevOps projects across Java and MERN stacks. My Google Drive contains extensive documentation on:
 
 *   **DevOps Tools/Technologies:** Detailed guides and notes on various tools and technologies used in DevOps.
