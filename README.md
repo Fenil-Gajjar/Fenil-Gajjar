@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="[github_banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshalb.com%2Fblog%2Fwhat-is-devops-and-where-is-it-applied%2F&psig=AOvVaw39sxtst2Ln_vtmXdGd1_KD&ust=1754047316884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCNrMv95o4DFQAAAAAdAAAAABAE)" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshalb.com%2Fblog%2Fwhat-is-devops-and-where-is-it-applied%2F&psig=AOvVaw39sxtst2Ln_vtmXdGd1_KD&ust=1754047316884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCNrMv95o4DFQAAAAAdAAAAABAE" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fenil Gajjar!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Engineer;Final+Year+Computer+Engineering+Student;AWS+%26+Kubernetes+Enthusiast;CI%2FCD+Pipeline+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Engineer;Final+Year+CE+Student;AWS+%26+Kubernetes+Enthusiast;CI%2FCD+Pipeline+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -128,4 +128,3 @@ Beyond these core projects, I have executed multiple end-to-end DevOps projects 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Fenil-Gajjar">Fenil Gajjar</a></i>
 </p>
-
