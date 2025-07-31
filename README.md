@@ -111,6 +111,10 @@ Engineered automated GitOps pipeline featuring:
   <a href="https://drive.google.com/drive/folders/1Q3xFSLoeoiH38VCsGFYLD5Q3nYHXD0647usp=sharing">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
   </a>
+<a href="https://www.linkedin.com/in/gec-bharuch-comp-dte-fenilgajjar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </p>
 
 ---
