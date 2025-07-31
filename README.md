@@ -66,32 +66,6 @@ I'm a **final-year Computer Engineering student** specializing in **computer sys
 </p>
 
 ---
-## 💡 Featured Projects
-
-Here are some of the key projects where I've applied my skills to showcase experience:
-
-### 1. Migration and Re-architecture of Multi-Tier Java Application on AWS
-*   **Technologies:** AWS (ELB, Auto Scaling Groups, Route 53, S3, Elastic Beanstalk, RDS, ElastiCache, Amazon MQ, CloudFront), Java, Tomcat, MySQL, RabbitMQ, Memcache, Maven.
-
-### 2. Capstone Automated DevSecOps Workflow for Cloud-Native Deployment
-*   **Technologies:** Jenkins, Trivy, SonarQube, Nexus, Terraform, Docker, AWS EKS, GitOps, Prometheus, Grafana, Spring Boot.
-
-### 3. GitOps-Based VProfile Cloud-Native Deployment
-*   **Technologies:** GitHub Actions, Terraform, AWS EKS, Docker, ECR, Helm, SonarCloud.
-
-### 4. Additional Projects & Documentation
-Beyond these core projects, I have executed multiple end-to-end DevOps projects across Java and MERN stacks. My Google Drive contains extensive documentation on:
-
-*   **DevOps Tools/Technologies:** Detailed guides and notes on various tools and technologies used in DevOps.
-*   **DevOps/Cloud End to End Projects:** Comprehensive documentation of various cloud and DevOps projects, showcasing practical implementations and solutions.
-
-### Other Notable Projects:
-
--   [AWS-SERVICES_REAL_TIME_SCENARIO_TASKS](https://github.com/Fenil-Gajjar/AWS-SERVICES_REAL_TIME_SCENARIO_TASKS)
--   [KUBERNETES_REAL_TIME_SCENARIO_TASKS](https://github.com/Fenil-Gajjar/KUBERNETES_REAL_TIME_SCENARIO_TASKS)
--   [Rearchitecting-AWS-Cloud-Lift_and_Shift](https://github.com/Fenil-Gajjar/Rearchitecting-AWS-Cloud-Lift_and_Shift)
-
-
 ## 🎓 Education
 
 -   **Government Engineering College, Bharuch (GTU)**
