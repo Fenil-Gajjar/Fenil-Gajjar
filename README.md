@@ -81,11 +81,6 @@ I'm a **final-year Computer Engineering student** specializing in **computer sys
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Fenil-Gajjar">Fenil Gajjar</a></i>
 </p>
