@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
+  <img src="[github_banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshalb.com%2Fblog%2Fwhat-is-devops-and-where-is-it-applied%2F&psig=AOvVaw39sxtst2Ln_vtmXdGd1_KD&ust=1754047316884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCNrMv95o4DFQAAAAAdAAAAABAE)" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fenil Gajjar!</h1>
