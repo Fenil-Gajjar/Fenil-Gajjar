@@ -1,7 +1,7 @@
 # Hi there, I'm Fenil Gajjar 👋
 
 <p align="center">
-  <img src="/home/ubuntu/readme_banner.png" alt="Fenil Gajjar - Cloud & DevOps Engineer"/>
+  <img src="/home/ubuntu/readme_banner_v4.png" alt="Fenil Gajjar - Cloud & DevOps Engineer"/>
 </p>
 
 ## 🚀 About Me
@@ -22,6 +22,8 @@ I am a proactive learner, an active contributor to the DevOps community, and alw
 
 ## 🛠️ My Tech Stack
 
+Here's a glimpse into the technologies and tools I frequently work with:
+
 | Category | Technologies |
 |---|---|
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
@@ -31,20 +33,6 @@ I am a proactive learner, an active contributor to the DevOps community, and alw
 | **Programming & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
 | **Security** | ![SonarQube](https://img.shields.io/badge/SonarQube-%23CB2029.svg?style=for-the-badge&logo=sonarqube&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white) |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Fenil-Gajjar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fenil-Gajjar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Fenil's GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fenil-Gajjar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenil-Gajjar&theme=dracula" alt="Fenil's GitHub Streak"/>
-  </a>
-</p>
 
 ## 📂 Featured Projects
 
@@ -58,10 +46,7 @@ Here are some of my significant projects that showcase my skills and experience:
 
 ### 2. Capstone Automated DevSecOps Workflow for Cloud-Native Deployment
 
-*   **Description:** Orchestrated a comprehensive automated DevSecOps pipeline for a Spring Boot application, integrating security and quality checks throughout the software development lifecycle. This project emphasized 
-
-
-shift-left security practices.
+*   **Description:** Orchestrated a comprehensive automated DevSecOps pipeline for a Spring Boot application, integrating security and quality checks throughout the software development lifecycle. This project emphasized shift-left security practices.
 *   **Key Achievements:** Implemented a robust CI/CD pipeline using Jenkins, integrated security scanning with Trivy, and code quality analysis with SonarQube. Managed artifact storage with Nexus. Provisioned AWS EKS infrastructure using Terraform and containerized the application with Docker. Ensured continuous deployment with GitOps, SSL/TLS, and comprehensive monitoring using Prometheus and Grafana.
 *   **Technologies:** Jenkins, Trivy, SonarQube, Nexus, Terraform, Docker, AWS EKS, GitOps, Prometheus, Grafana, Spring Boot.
 
@@ -86,7 +71,6 @@ I am always open to collaborating on interesting projects and discussing new opp
 *   **LinkedIn:** [https://www.linkedin.com/in/fenil-gajjar-devops/](https://www.linkedin.com/in/fenil-gajjar-devops/)
 *   **GitHub:** [https://github.com/Fenil-Gajjar](https://github.com/Fenil-Gajjar)
 
---- 
+---
 
-_This README.md was crafted with ❤️ by Manus AI._
 
