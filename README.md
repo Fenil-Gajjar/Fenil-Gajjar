@@ -65,16 +65,6 @@ I'm a **final-year Computer Engineering student** specializing in **computer sys
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
-## 🎓 Education
-
--   **Government Engineering College, Bharuch (GTU)**
-    -   Bachelor of Engineering in Computer Engineering (In Progress: 2023-2026)
-
--   **Dr. S & SS Gandhy College of Engineering, Surat (GTU)**
-    -   Diploma in Information Technology (2020-2023) | CGPA: 8.46/10
-
-
 ## 🤝 Connect with Me
 
 <p align="center">
