@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img src="https://shalb.com/wp-content/uploads/2023/07/devops-banner.png" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
+<img src="https://shalb.com/wp-content/uploads/2021/07/devops_illustration.jpg" alt="Fenil Gajjar - DevOps & Cloud Engineer Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fenil Gajjar!</h1>
